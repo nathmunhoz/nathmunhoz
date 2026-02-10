@@ -2,12 +2,12 @@
 
 ###
 
-<p align="left">Full-Stack Developer in progress | Computer Science</p>
+<p align="left">Data Scientist in progress | Computer Science</p>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/nathalia-munhoz-fullstack/" target="_blank">
+  <a href="https://www.linkedin.com/in/nathalia-munhozz/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- Currently studying to become a Full-Stack Developer.<br>- This is where i share what I'm learning and building as I grow in tech.</p>
+<p align="left">- Currently studying to become a Data Scientist.<br>- This is where i share what I'm learning and building as I grow in tech.</p>
 
 ###
 
